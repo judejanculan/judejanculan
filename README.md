@@ -16,6 +16,11 @@
 
 - ⚡ Fun fact **interesting people**
 
+### I am Programmer
+
+![ChristianBaleAmericanPsychoGIF](https://github.com/judejanculan/judejanculan/assets/70065249/b1cb1f5c-2c7b-4655-afb3-6390c00597c0)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jjude_lv18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jjude_lv18" height="30" width="40" /></a>
@@ -47,6 +52,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judejanculan&" alt="judejanculan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judejanculan&show_icons=true&locale=en&layout=compact" alt="judejanculan" /></p>
+
+### LAST PROJECT WORKING FOR IT
+<!--
+![ILovedItDavidWalliamsGIF](https://github.com/judejanculan/judejanculan/assets/70065249/b4747437-078e-4de4-95e7-9f300bc581e5)
+
 
 <!--
 **judejanculan/judejanculan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
