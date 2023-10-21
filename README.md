@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **judejanculan13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14aCIs3kOOpdQap1wvcUtcjpTUvHYlqfD/view?usp=sharing](https://drive.google.com/file/d/14aCIs3kOOpdQap1wvcUtcjpTUvHYlqfD/view?usp=sharing)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **interesting people**
 
