@@ -7,9 +7,9 @@ Proficient in backend development, with experience creating projects and collabo
 
 - 🔭 I’m currently working on [projects](https://github.com/judejanculan?tab=repositories)
 
-- 🌱 I’m currently learning **Quality Assurance (QA)
+- 🌱 I’m currently learning <strong>Quality Assurance (QA)</strong> — <a href="https://sites.google.com/view/qa-portfolio-judejanculan/home">QA portfolio</a>
 
-Virtual Assistance (VA)
+Virtual Assistance (VA) 
 
 Advanced Web Development**
 
