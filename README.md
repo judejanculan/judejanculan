@@ -9,6 +9,8 @@ Proficient in backend development, with experience creating projects and collabo
 
 - 🌱 I’m currently learning <strong>Quality Assurance (QA)</strong> — <a href="https://sites.google.com/view/qa-portfolio-judejanculan/home">QA portfolio</a>
 
+- Im fast-learner Playwright, Cypress, Selenium 
+
 Virtual Assistance (VA) 
 
 Advanced Web Development**
