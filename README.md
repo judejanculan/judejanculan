@@ -27,7 +27,7 @@ and contact me: +639922818353**
   
 - ⚡ Fun fact **I enjoy meeting and collaborating with interesting, creative people.**
 
-### I am QA Enginner and Inspire Software Engineer and Co-Founder Combined Works Co.
+### I am QA Engineer and Inspire Software Engineer and Co-Founder Combined Works Co.
 
 ![ChristianBaleAmericanPsychoGIF](https://github.com/judejanculan/judejanculan/assets/70065249/b1cb1f5c-2c7b-4655-afb3-6390c00597c0)
 
