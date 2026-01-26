@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, 🚀 AI & Automation Engineer | Software Developer | QA Manual Tester - Helping Businesses Scale with Smart Tech, Marketing, & Data Solutions | </h1>
+<h1 align="center">Hi 👋, 🚀 AI & QA Engineer | Inspire Software Developer | QA Manual Tester - Helping Businesses Scale with Smart Tech, Marketing, & Data Solutions | </h1>
 
 <h3 align="center" dir="auto"><a id="user-content-professional-full-stack-developer" class="anchor" aria-hidden="true" tabindex="-1" href="#professional-full-stack-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Software Engineer - I am inspiring Web Developer to Full-stack developer</h3>
 
@@ -9,13 +9,13 @@ Proficient in backend development, with experience creating projects and collabo
 
 - 🌱 I’m currently learning <strong>Quality Assurance (QA)</strong> — <a href="https://sites.google.com/view/qa-portfolio-judejanculan/home">QA portfolio</a>
 
-- Im fast-learner Playwright, Cypress, Selenium 
+- Im fast-learner in consistency 
 
 Virtual Assistance (VA) 
 
-Advanced Web Development**
+Advanced QA Tester **
 
-- 👯 I’m looking to collaborate on **Team projects
+- 👯 I’m looking to collaborate on **Team projects**
 
 Freelance or full-time roles
 
@@ -27,7 +27,7 @@ and contact me: +639922818353**
   
 - ⚡ Fun fact **I enjoy meeting and collaborating with interesting, creative people.**
 
-### I am Programmer
+### I am QA Enginner and Inspire Software Engineer and Co-Founder Combined Works Co.
 
 ![ChristianBaleAmericanPsychoGIF](https://github.com/judejanculan/judejanculan/assets/70065249/b1cb1f5c-2c7b-4655-afb3-6390c00597c0)
 
