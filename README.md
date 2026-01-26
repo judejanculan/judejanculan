@@ -60,7 +60,6 @@ COMBINED WORKS CO.
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judejanculan&show_icons=true&locale=en" alt="judejanculan" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judejanculan&" alt="judejanculan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judejanculan&show_icons=true&locale=en&layout=compact" alt="judejanculan" /></p>
 
